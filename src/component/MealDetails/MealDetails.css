@@ -1,0 +1,12 @@
+.detail{
+    background-color: lightgreen;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 25px;
+    margin: 100px;
+}
+.detail img{
+    width: 25%;
+    border-radius: 30px;
+}
